@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-03-17
+# Last update: 2025-03-18
 #
-# Number of domains: 103689
+# Number of domains: 103690
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -7405,6 +7405,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -19591,7 +19592,7 @@
 0.0.0.0  casinohacksforyou.com
 0.0.0.0  casinoheroes.com
 0.0.0.0  casinojefe.com
-0.0.0.0  casinolanactive.tc.skysrt.com
+0.0.0.0  casinoland.com
 0.0.0.0  casinolasvegas.com
 0.0.0.0  casinolasvegas.no
 0.0.0.0  casinomcw.com
@@ -24819,7 +24820,6 @@
 0.0.0.0  d.biboi.cn
 0.0.0.0  d.clkservice.youdao.com
 0.0.0.0  d.cntv.cn
-0.0.0.0  d.com
 0.0.0.0  d.cybtel.com
 0.0.0.0  d.danangmo.cn
 0.0.0.0  d.delahorro.app
@@ -41849,6 +41849,7 @@
 0.0.0.0  i.gdt.qq.com
 0.0.0.0  i.getemoji.me
 0.0.0.0  i.go.sohu.com
+0.0.0.0  i.go88.com
 0.0.0.0  i.go88.org
 0.0.0.0  i.go88.top
 0.0.0.0  i.hao61.net

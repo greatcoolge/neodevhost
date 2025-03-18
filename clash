@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-03-17
+# Last update: 2025-03-18
 #
-# Number of domains: 103689
+# Number of domains: 103690
 #
 #=====================================
 payload:
@@ -7406,6 +7406,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -19592,7 +19593,7 @@ payload:
   - 'casinohacksforyou.com'
   - 'casinoheroes.com'
   - 'casinojefe.com'
-  - 'casinolanactive.tc.skysrt.com'
+  - 'casinoland.com'
   - 'casinolasvegas.com'
   - 'casinolasvegas.no'
   - 'casinomcw.com'
@@ -24820,7 +24821,6 @@ payload:
   - 'd.biboi.cn'
   - 'd.clkservice.youdao.com'
   - 'd.cntv.cn'
-  - 'd.com'
   - 'd.cybtel.com'
   - 'd.danangmo.cn'
   - 'd.delahorro.app'
@@ -41850,6 +41850,7 @@ payload:
   - 'i.gdt.qq.com'
   - 'i.getemoji.me'
   - 'i.go.sohu.com'
+  - 'i.go88.com'
   - 'i.go88.org'
   - 'i.go88.top'
   - 'i.hao61.net'
