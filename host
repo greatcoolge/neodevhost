@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-03-20
+# Last update: 2025-03-21
 #
-# Number of domains: 103892
+# Number of domains: 103898
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -2375,7 +2375,6 @@
 0.0.0.0  8u0.fun
 0.0.0.0  8ue4rp6yxyis.www.tapmyback.com
 0.0.0.0  8v1.cn
-0.0.0.0  8vip0.com
 0.0.0.0  8vnd.club
 0.0.0.0  8vnd6.com
 0.0.0.0  8vnd7.com
@@ -3049,7 +3048,7 @@
 0.0.0.0  a12332.actonservice.com
 0.0.0.0  a12336.actonservice.com
 0.0.0.0  a12409.actonservice.com
-0.0.0.0  a12433.actonservice.cmes.com
+0.0.0.0  a12433.actonservice.com
 0.0.0.0  a12440.actonservice.com
 0.0.0.0  a12516.actonservice.com
 0.0.0.0  a12517.actonservice.com
@@ -4457,6 +4456,7 @@
 0.0.0.0  a35e803f21.com
 0.0.0.0  a36025.actonservice.com
 0.0.0.0  a36117.actonservice.com
+0.0.0.0  a36162.actonservice.com
 0.0.0.0  a36168.actonservice.com
 0.0.0.0  a36210.actonservice.com
 0.0.0.0  a36213.actonservice.com
@@ -5144,6 +5144,7 @@
 0.0.0.0  a45500.actonservice.com
 0.0.0.0  a45504.actonservice.com
 0.0.0.0  a45508.actonservice.com
+0.0.0.0  a45513.actonservice.com
 0.0.0.0  a45514.actonservice.com
 0.0.0.0  a45519.actonservice.com
 0.0.0.0  a45520.actonservice.com
@@ -5518,7 +5519,6 @@
 0.0.0.0  a8.sennendo.jp
 0.0.0.0  a8.sharefull.com
 0.0.0.0  a8.shikaketegami.com
-0.0.0.0  a8.shikigaku.jp
 0.0.0.0  a8.shinnihonjisyo.co.jp
 0.0.0.0  a8.shitsukekun.com
 0.0.0.0  a8.shokubun.net
@@ -7404,6 +7404,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -11075,6 +11076,7 @@
 0.0.0.0  analitica.webrpp.com
 0.0.0.0  analitik.bik.gov.tr
 0.0.0.0  analitits.com
+0.0.0.0  analitycs.net
 0.0.0.0  analoganalytics.com
 0.0.0.0  analogwonder.com
 0.0.0.0  analogydid.com
@@ -11611,7 +11613,6 @@
 0.0.0.0  analytics.tout.com
 0.0.0.0  analytics.toyotaforklift.com
 0.0.0.0  analytics.tradedoubler.com
-0.0.0.0  analytics.traderlink.com
 0.0.0.0  analytics.truckingauthority.com
 0.0.0.0  analytics.trust.page
 0.0.0.0  analytics.trutv.com
@@ -18822,7 +18823,7 @@
 0.0.0.0  c.admaster.com.cn
 0.0.0.0  c.admob.com
 0.0.0.0  c.adsco.re
-0.0.0.0  c.adx.2345.cactive.tc.skysrt.com
+0.0.0.0  c.adx.2345.com
 0.0.0.0  c.agrant.cn
 0.0.0.0  c.agrantsem.com
 0.0.0.0  c.albss.com
@@ -23485,6 +23486,7 @@
 0.0.0.0  count14.51yes.com
 0.0.0.0  count15.51yes.com
 0.0.0.0  count16.51yes.com
+0.0.0.0  count17.51yes.com
 0.0.0.0  count18.51yes.com
 0.0.0.0  count19.51yes.com
 0.0.0.0  count2.51yes.com
@@ -33290,6 +33292,7 @@
 0.0.0.0  euskarawordman.shop
 0.0.0.0  eusvnhgypltw.life
 0.0.0.0  euthanasia.news
+0.0.0.0  eutopia.buzz
 0.0.0.0  euvtoaw.com
 0.0.0.0  euz.net
 0.0.0.0  ev-dating.com
@@ -37272,7 +37275,6 @@
 0.0.0.0  get.sage.com
 0.0.0.0  get.sakay.ph
 0.0.0.0  get.schoolbuddy.app
-0.0.0.0  get.seedly.sg
 0.0.0.0  get.smart-guide.org
 0.0.0.0  get.snapask.com
 0.0.0.0  get.soloyal.co
@@ -44078,6 +44080,7 @@
 0.0.0.0  info.harte-hanks.com
 0.0.0.0  info.harvardapparatus.com
 0.0.0.0  info.hds-rx.com
+0.0.0.0  info.healthcareittoday.com
 0.0.0.0  info.healthcarescene.com
 0.0.0.0  info.heartflow.com
 0.0.0.0  info.heirtight.co
@@ -44808,6 +44811,7 @@
 0.0.0.0  insitez.blob.core.windows.net
 0.0.0.0  inskinad.com
 0.0.0.0  insnative.com
+0.0.0.0  insouloxymel.com
 0.0.0.0  inspeakreduces.com
 0.0.0.0  inspectcol.com
 0.0.0.0  inspectmergersharpen.com
@@ -46768,6 +46772,7 @@
 0.0.0.0  js.50bang.org
 0.0.0.0  js.51ir.cn
 0.0.0.0  js.51taifu.com
+0.0.0.0  js.578965.com
 0.0.0.0  js.5iydz.com
 0.0.0.0  js.5xml.com
 0.0.0.0  js.8o9o.com
@@ -46941,7 +46946,6 @@
 0.0.0.0  jsdelvr.com
 0.0.0.0  jsecoin.com
 0.0.0.0  jserr.cnzz.com
-0.0.0.0  jseutopia.buzz
 0.0.0.0  jsf.cnlinfo.net
 0.0.0.0  jsfeedadsget.com
 0.0.0.0  jsftzha.com
@@ -48155,6 +48159,7 @@
 0.0.0.0  km-sea.net
 0.0.0.0  km.choi789.link
 0.0.0.0  km.choivin88.us
+0.0.0.0  km.jianduankm.com
 0.0.0.0  km.rightanswers.com
 0.0.0.0  km1888866b.com
 0.0.0.0  km238b.com
@@ -50924,7 +50929,6 @@
 0.0.0.0  lkiterl.top
 0.0.0.0  lkixinoql.com
 0.0.0.0  lkkemywlsyxsq.xyz
-0.0.0.0  lkluoz.saraceniwines.com
 0.0.0.0  lkme.cc
 0.0.0.0  lkmedcjyh.xyz
 0.0.0.0  lknqfn.furla.com
@@ -55346,7 +55350,6 @@
 0.0.0.0  marketing.tourismpg.com
 0.0.0.0  marketing.tourismrichmond.com
 0.0.0.0  marketing.tourismsaskatoon.com
-0.0.0.0  marketing.tourismwinnipeg.com
 0.0.0.0  marketing.towerfcu.org
 0.0.0.0  marketing.toyotaofeasley.com
 0.0.0.0  marketing.tr.netsalesmedia.pl
@@ -55568,6 +55571,7 @@
 0.0.0.0  marketingde.mti.com
 0.0.0.0  marketingemea.guidepoint.com
 0.0.0.0  marketingenhanced.com
+0.0.0.0  marketingforms.jdpa.com
 0.0.0.0  marketinginfo.clutch.com
 0.0.0.0  marketingms.actonservice.com
 0.0.0.0  marketingplatform.google.com
@@ -59423,6 +59427,7 @@
 0.0.0.0  mrewards.w88club.com
 0.0.0.0  mrgreen.com
 0.0.0.0  mrgrekeroad.com
+0.0.0.0  mri.iradimed.com
 0.0.0.0  mrjackpotspins.com
 0.0.0.0  mrjb7hvcks.com
 0.0.0.0  mrksmm.yumegazai.com
@@ -59816,6 +59821,7 @@
 0.0.0.0  mw-ind.actonservice.com
 0.0.0.0  mw.adwo.com
 0.0.0.0  mw6xj4.cn
+0.0.0.0  mwa.meanwellaustralia.com.au
 0.0.0.0  mwbhkv.plasico.bg
 0.0.0.0  mwbilx.pisos.com
 0.0.0.0  mwclanfwvgkje.com
@@ -61948,6 +61954,7 @@
 0.0.0.0  nuaaad.cn
 0.0.0.0  nubileforward.com
 0.0.0.0  nubseech.com
+0.0.0.0  nucgsx.indestructibleshoes.com
 0.0.0.0  nuclear.news
 0.0.0.0  nuclearweapons.news
 0.0.0.0  nucleinkafirs.top
@@ -62091,7 +62098,7 @@
 0.0.0.0  nws.naltis.com
 0.0.0.0  nwtennnews.com
 0.0.0.0  nwtwincities.com
-0.0.0.0  nwvalleyti78965.com
+0.0.0.0  nwvalleytimes.com
 0.0.0.0  nwvupz.cljoias.com.br
 0.0.0.0  nwvvhxakmxif.com
 0.0.0.0  nwwais.com
@@ -73429,7 +73436,7 @@
 0.0.0.0  same.zkb.co.uk
 0.0.0.0  same01.jrj.com.cn
 0.0.0.0  same02.jrj.com.cn
-0.0.0.0  same03.jrj.com
+0.0.0.0  same03.jrj.com.cn
 0.0.0.0  samesticks.com
 0.0.0.0  samestretch.com
 0.0.0.0  sametrics.finn.no
@@ -76561,7 +76568,6 @@
 0.0.0.0  sinterfumescomy.org
 0.0.0.0  sinusshough.top
 0.0.0.0  sinwebads.com
-0.0.0.0  sionscormation.org
 0.0.0.0  siouxcitytimes.com
 0.0.0.0  siouxempiretoday.com
 0.0.0.0  siphdcwglypz.tech
@@ -85155,6 +85161,7 @@
 0.0.0.0  sxjfhh.tallahassee.com
 0.0.0.0  sxjfhh.tcpalm.com
 0.0.0.0  sxjfhh.tennessean.com
+0.0.0.0  sxjfhh.theleafchronicle.com
 0.0.0.0  sxjfhh.thenewsstar.com
 0.0.0.0  sxjfhh.thespectrum.com
 0.0.0.0  sxjfhh.thetimesherald.com
@@ -86085,7 +86092,7 @@
 0.0.0.0  taison1.club
 0.0.0.0  taison2.club
 0.0.0.0  taison3.club
-0.0.0.0  taison4.clvice.com
+0.0.0.0  taison4.club
 0.0.0.0  taison5.club
 0.0.0.0  taison6.club
 0.0.0.0  taison7.club
@@ -90803,7 +90810,6 @@
 0.0.0.0  tracking.shl.com
 0.0.0.0  tracking.shop.hunter.easynet.de
 0.0.0.0  tracking.shop.verymobile.it
-0.0.0.0  tracking.shopstyle.co.uk
 0.0.0.0  tracking.shopstyle.com
 0.0.0.0  tracking.sierrawireless.com
 0.0.0.0  tracking.simpleaccess.com
@@ -91887,7 +91893,6 @@
 0.0.0.0  truoptik.com
 0.0.0.0  trust.flexpay.io
 0.0.0.0  trust.mitutoyo.com
-0.0.0.0  trust.titanhq.com
 0.0.0.0  trust.zebra.com
 0.0.0.0  trust.zone
 0.0.0.0  trustaffs.com
@@ -91929,6 +91934,7 @@
 0.0.0.0  truthhascudgel.com
 0.0.0.0  truthkings.com
 0.0.0.0  truthpoliticsnews.com
+0.0.0.0  truthvexedben.com
 0.0.0.0  trutvnci.top
 0.0.0.0  truxedku.com
 0.0.0.0  truyenthongthongtin.com
@@ -92131,6 +92137,7 @@
 0.0.0.0  tuipenguin.com
 0.0.0.0  tuisong.baidu.cn
 0.0.0.0  tuisong.baidu.com
+0.0.0.0  tuite8.com
 0.0.0.0  tuitiger.com
 0.0.0.0  tujourda.net
 0.0.0.0  tukj.net
@@ -93747,6 +93754,7 @@
 0.0.0.0  usslibertyveterans.org
 0.0.0.0  ussolutions.equifax.com
 0.0.0.0  ust-ad.com
+0.0.0.0  ust.titanhq.com
 0.0.0.0  ustat.info
 0.0.0.0  usuallyaltered.com
 0.0.0.0  usuarios-online.com
@@ -93754,7 +93762,7 @@
 0.0.0.0  usuf.candukang.cn
 0.0.0.0  usuncut.com
 0.0.0.0  usurv.com
-0.0.0.0  usviral.om
+0.0.0.0  usviral.info
 0.0.0.0  usw18-268-pdb.net.mydays.de
 0.0.0.0  uswardwot.com
 0.0.0.0  usxabwaiinnu.com
@@ -96488,7 +96496,6 @@
 0.0.0.0  web.sensilab.cz
 0.0.0.0  web.sensilab.de
 0.0.0.0  web.sensilab.dk
-0.0.0.0  web.sensilab.es
 0.0.0.0  web.sensilab.fi
 0.0.0.0  web.sensilab.hr
 0.0.0.0  web.sensilab.ie
@@ -99489,8 +99496,8 @@
 0.0.0.0  www.hg89068.com
 0.0.0.0  www.hg89078.com
 0.0.0.0  www.hi888.app
+0.0.0.0  www.hi88vip0.com
 0.0.0.0  www.hi88vip8.com
-0.0.0.0  www.hi8s.net
 0.0.0.0  www.higame123.com
 0.0.0.0  www.highheelsbingo.com
 0.0.0.0  www.highlifebingo.com
@@ -100310,7 +100317,6 @@
 0.0.0.0  www.royalslots.com
 0.0.0.0  www.royrichie.com
 0.0.0.0  www.rr88.live
-0.0.0.0  www.rrrwwwa.com
 0.0.0.0  www.rubet.com
 0.0.0.0  www.rubiconproject.com
 0.0.0.0  www.ruptly.tv
