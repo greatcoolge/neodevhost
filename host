@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-03-21
+# Last update: 2025-03-22
 #
-# Number of domains: 103898
+# Number of domains: 103920
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -25,6 +25,10 @@
 0.0.0.0  00404850.xyz
 0.0.0.0  0066130.com
 0.0.0.0  00771944.xyz
+0.0.0.0  007win.com
+0.0.0.0  007win.org
+0.0.0.0  007win.shop
+0.0.0.0  007winand.taive.app
 0.0.0.0  0082tv.net
 0.0.0.0  00857731.xyz
 0.0.0.0  009.casino
@@ -5519,6 +5523,7 @@
 0.0.0.0  a8.sennendo.jp
 0.0.0.0  a8.sharefull.com
 0.0.0.0  a8.shikaketegami.com
+0.0.0.0  a8.shikigaku.jp
 0.0.0.0  a8.shinnihonjisyo.co.jp
 0.0.0.0  a8.shitsukekun.com
 0.0.0.0  a8.shokubun.net
@@ -7404,7 +7409,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -7729,6 +7733,7 @@
 0.0.0.0  ad.norfolkbroads.com
 0.0.0.0  ad.obuy.tw
 0.0.0.0  ad.ordersuit.info
+0.0.0.0  ad.pagedebet.org
 0.0.0.0  ad.partner.gifshow.com
 0.0.0.0  ad.pchome.com.tw
 0.0.0.0  ad.pixnet.in
@@ -10324,8 +10329,8 @@
 0.0.0.0  air.yoyi.com.cn
 0.0.0.0  air2s.com
 0.0.0.0  air360tracker.net
+0.0.0.0  airactive.tc.skysrt.com
 0.0.0.0  airairgu.com
-0.0.0.0  airakgyl.com
 0.0.0.0  airartapt.site
 0.0.0.0  airbet88.co
 0.0.0.0  airbornefrench.com
@@ -10448,6 +10453,7 @@
 0.0.0.0  akeedser.com
 0.0.0.0  akentaspectsof.com
 0.0.0.0  akgnwd.tocris.com
+0.0.0.0  akgyl.com
 0.0.0.0  akijk.life
 0.0.0.0  akilifox.com
 0.0.0.0  akjorcnawqp.com
@@ -11613,6 +11619,7 @@
 0.0.0.0  analytics.tout.com
 0.0.0.0  analytics.toyotaforklift.com
 0.0.0.0  analytics.tradedoubler.com
+0.0.0.0  analytics.traderlink.com
 0.0.0.0  analytics.truckingauthority.com
 0.0.0.0  analytics.trust.page
 0.0.0.0  analytics.trutv.com
@@ -21924,6 +21931,7 @@
 0.0.0.0  cnlogs.umeng.com
 0.0.0.0  cnlogs.umengcloud.com
 0.0.0.0  cnm.xlcktv.com
+0.0.0.0  cnmgb.007win.org
 0.0.0.0  cnmnb.online
 0.0.0.0  cnn.com.de
 0.0.0.0  cnn.dyn.cnn.com
@@ -28628,6 +28636,7 @@
 0.0.0.0  dk.playgem.me
 0.0.0.0  dk.sieutaixiu79.club
 0.0.0.0  dk.thethaouk88.org
+0.0.0.0  dk.thethaovin88.info
 0.0.0.0  dk.thethaovua.co
 0.0.0.0  dk.zoplay.top
 0.0.0.0  dk4w74mt6naf3.cloudfront.net
@@ -37275,6 +37284,7 @@
 0.0.0.0  get.sage.com
 0.0.0.0  get.sakay.ph
 0.0.0.0  get.schoolbuddy.app
+0.0.0.0  get.seedly.sg
 0.0.0.0  get.smart-guide.org
 0.0.0.0  get.snapask.com
 0.0.0.0  get.soloyal.co
@@ -50929,6 +50939,7 @@
 0.0.0.0  lkiterl.top
 0.0.0.0  lkixinoql.com
 0.0.0.0  lkkemywlsyxsq.xyz
+0.0.0.0  lkluoz.saraceniwines.com
 0.0.0.0  lkme.cc
 0.0.0.0  lkmedcjyh.xyz
 0.0.0.0  lknqfn.furla.com
@@ -51787,6 +51798,7 @@
 0.0.0.0  lp.svenskapostkodlotteriet.se
 0.0.0.0  lp.taiv8.top
 0.0.0.0  lp.tfd-corp.co.jp
+0.0.0.0  lp.tip88vn.me
 0.0.0.0  lp.tix.lehigh.edu
 0.0.0.0  lp.to-lipton.com
 0.0.0.0  lp.vip79.com
@@ -55350,6 +55362,7 @@
 0.0.0.0  marketing.tourismpg.com
 0.0.0.0  marketing.tourismrichmond.com
 0.0.0.0  marketing.tourismsaskatoon.com
+0.0.0.0  marketing.tourismwinnipeg.com
 0.0.0.0  marketing.towerfcu.org
 0.0.0.0  marketing.toyotaofeasley.com
 0.0.0.0  marketing.tr.netsalesmedia.pl
@@ -64653,6 +64666,7 @@
 0.0.0.0  pagechoice.com
 0.0.0.0  pagechoice.net
 0.0.0.0  pagechoicemotu.gentags.net
+0.0.0.0  pagedebet.org
 0.0.0.0  pagedot.deutschepost.de
 0.0.0.0  pageid.info
 0.0.0.0  pageimprove.io
@@ -76568,6 +76582,7 @@
 0.0.0.0  sinterfumescomy.org
 0.0.0.0  sinusshough.top
 0.0.0.0  sinwebads.com
+0.0.0.0  sionscormation.org
 0.0.0.0  siouxcitytimes.com
 0.0.0.0  siouxempiretoday.com
 0.0.0.0  siphdcwglypz.tech
@@ -80337,6 +80352,7 @@
 0.0.0.0  sobesed.com
 0.0.0.0  sobin.wang
 0.0.0.0  sobnineteen.com
+0.0.0.0  soc.sieutaixiu79.club
 0.0.0.0  soc88.com
 0.0.0.0  soc99.com
 0.0.0.0  socalrecord.com
@@ -86109,6 +86125,7 @@
 0.0.0.0  taiv8.com
 0.0.0.0  taiv8.info
 0.0.0.0  taiv8.top
+0.0.0.0  taive.app
 0.0.0.0  taiwanlottery.com.tw
 0.0.0.0  taiwhups.net
 0.0.0.0  taiwin79.win
@@ -87492,6 +87509,7 @@
 0.0.0.0  thethaofb88.com
 0.0.0.0  thethaofi88.com
 0.0.0.0  thethaouk88.org
+0.0.0.0  thethaovin88.info
 0.0.0.0  thethaovip.vip
 0.0.0.0  thethaovua.co
 0.0.0.0  thethaowin.net
@@ -87848,6 +87866,7 @@
 0.0.0.0  tioztp.unisportstore.nl
 0.0.0.0  tip.club
 0.0.0.0  tip88.com
+0.0.0.0  tip88vn.me
 0.0.0.0  tipbet.com
 0.0.0.0  tipchambers.com
 0.0.0.0  tipforcefulmeow.com
@@ -90810,6 +90829,7 @@
 0.0.0.0  tracking.shl.com
 0.0.0.0  tracking.shop.hunter.easynet.de
 0.0.0.0  tracking.shop.verymobile.it
+0.0.0.0  tracking.shopstyle.co.uk
 0.0.0.0  tracking.shopstyle.com
 0.0.0.0  tracking.sierrawireless.com
 0.0.0.0  tracking.simpleaccess.com
@@ -91893,6 +91913,7 @@
 0.0.0.0  truoptik.com
 0.0.0.0  trust.flexpay.io
 0.0.0.0  trust.mitutoyo.com
+0.0.0.0  trust.titanhq.com
 0.0.0.0  trust.zebra.com
 0.0.0.0  trust.zone
 0.0.0.0  trustaffs.com
@@ -93754,7 +93775,6 @@
 0.0.0.0  usslibertyveterans.org
 0.0.0.0  ussolutions.equifax.com
 0.0.0.0  ust-ad.com
-0.0.0.0  ust.titanhq.com
 0.0.0.0  ustat.info
 0.0.0.0  usuallyaltered.com
 0.0.0.0  usuarios-online.com
@@ -96496,6 +96516,7 @@
 0.0.0.0  web.sensilab.cz
 0.0.0.0  web.sensilab.de
 0.0.0.0  web.sensilab.dk
+0.0.0.0  web.sensilab.es
 0.0.0.0  web.sensilab.fi
 0.0.0.0  web.sensilab.hr
 0.0.0.0  web.sensilab.ie
@@ -100317,6 +100338,7 @@
 0.0.0.0  www.royalslots.com
 0.0.0.0  www.royrichie.com
 0.0.0.0  www.rr88.live
+0.0.0.0  www.rrrwwwa.com
 0.0.0.0  www.rubet.com
 0.0.0.0  www.rubiconproject.com
 0.0.0.0  www.ruptly.tv
