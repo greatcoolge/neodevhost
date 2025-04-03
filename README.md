@@ -13,7 +13,7 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 103120
 
-Total allowlist list 允许名单总数: 12014
+Total allowlist list 允许名单总数: 12013
 
 Update 更新时间: 2025-02-19
 ```
@@ -21,7 +21,7 @@ Update 更新时间: 2025-02-19
     Merge every day　每天更新
 Update 更新时间: 2025-02-19
     To block all ad / tracking  有效拦截广告追踪　
-Update 更新时间: 2025-04-02
+Update 更新时间: 2025-04-03
     Easy to use and welcome to report issues　简单使用欢迎回报问题
 
 ## Supported Platform 支持平台

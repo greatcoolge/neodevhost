@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-04-02
+# Last update: 2025-04-03
 #
 # Number of domains: 103120
 #
@@ -966,8 +966,8 @@
 0.0.0.0  2cba2742a4.com
 0.0.0.0  2cjlj3c15.de
 0.0.0.0  2cnjuh34jbman.com
+0.0.0.0  2cnjuh34jbpoint.com
 0.0.0.0  2cnjuh34jbstar.com
-0.0.0.0  2cnjuh3e.cz
 0.0.0.0  2cnt.net
 0.0.0.0  2cvnmbxnc.com
 0.0.0.0  2d1f81ac8e.com
@@ -1477,7 +1477,6 @@
 0.0.0.0  4iazoa.xyz
 0.0.0.0  4ir17.icu
 0.0.0.0  4jaehnfqizyx.controlconceptsusa.com
-0.0.0.0  4jbpoint.com
 0.0.0.0  4jc.icu
 0.0.0.0  4jnzhl0d0.com
 0.0.0.0  4k7kca7aj0s4.top
@@ -98202,6 +98201,7 @@
 0.0.0.0  www.cgaming.olg.ca
 0.0.0.0  www.champagnebingo.com
 0.0.0.0  www.championsbet.net
+0.0.0.0  www.chance.cz
 0.0.0.0  www.chancehill.com
 0.0.0.0  www.chanet.com.cn
 0.0.0.0  www.chanz.com
