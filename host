@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-04-03
+# Last update: 2025-04-04
 #
 # Number of domains: 103120
 #
@@ -3059,7 +3059,7 @@
 0.0.0.0  a12269.actonservice.com
 0.0.0.0  a12273.actonservice.com
 0.0.0.0  a12287.actonservice.com
-0.0.0.0  a12290.actonservice.com
+0.0.0.0  a12290.actoactive.tc.skysrt.com
 0.0.0.0  a12329.actonservice.com
 0.0.0.0  a12332.actonservice.com
 0.0.0.0  a12336.actonservice.com
@@ -7424,7 +7424,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -61475,6 +61474,7 @@
 0.0.0.0  nsdsok.cn
 0.0.0.0  nsdsvc.com
 0.0.0.0  nsedgj.bonprix.de
+0.0.0.0  nservice.com
 0.0.0.0  nsfocus.actonservice.com
 0.0.0.0  nsfsfn.xyz
 0.0.0.0  nsfwadds.com
