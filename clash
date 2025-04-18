@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-04-17
+# Last update: 2025-04-18
 #
-# Number of domains: 103759
+# Number of domains: 103757
 #
 #=====================================
 payload:
@@ -2031,6 +2031,7 @@ payload:
   - '789b.live'
   - '789b.win'
   - '789bet.com'
+  - '789bet.green'
   - '789bet.run'
   - '789bet.vip'
   - '789beta.com'
@@ -7452,7 +7453,6 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
-  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -10256,7 +10256,6 @@ payload:
   - 'ahscdn.com'
   - 'ahsxot.meaningfulbeauty.com'
   - 'ahtigames.com'
-  - 'ahtribune.com'
   - 'ahuvjy.design-market.fr'
   - 'ahvradotws.com'
   - 'ahxhny.cn'
@@ -19490,7 +19489,6 @@ payload:
   - 'capaciousdrewreligion.com'
   - 'capacitygrid.com'
   - 'capcap621.cn'
-  - 'capecodledger.com'
   - 'capefast.com'
   - 'capemonews.com'
   - 'caperedlevi.com'
@@ -20595,7 +20593,6 @@ payload:
   - 'channel18news.com'
   - 'channel22news.com'
   - 'channel23news.com'
-  - 'channel24news.com'
   - 'channel28news.com'
   - 'channel33news.com'
   - 'channel34news.com'
@@ -28490,7 +28487,6 @@ payload:
   - 'discover.supplydepotstore.com'
   - 'discover.tenplay.com.au'
   - 'discover2.secureforms.mcafee.com'
-  - 'discoveries.news'
   - 'discoverorg.actonservice.com'
   - 'discovertrail.net'
   - 'discreetfield.com'
@@ -30935,7 +30931,6 @@ payload:
   - 'eastrk-dn.com'
   - 'eastrk-lg.com'
   - 'eastsandiegonews.com'
-  - 'eastsbvtimes.com'
   - 'eastsfvtoday.com'
   - 'eastsierranews.com'
   - 'eastslcnews.com'
@@ -33982,6 +33977,7 @@ payload:
   - 'f10f9df901.com'
   - 'f11.hackhome.com'
   - 'f1617d6a6a.com'
+  - 'f168.vision'
   - 'f1851c0962.com'
   - 'f1tbit.com'
   - 'f2.five88.com'
@@ -40530,6 +40526,7 @@ payload:
   - 'hi88.chat'
   - 'hi88.de'
   - 'hi88.gd'
+  - 'hi88.uno'
   - 'hi888.app'
   - 'hi88vip1.com'
   - 'hi88vip3.com'
@@ -41889,6 +41886,7 @@ payload:
   - 'i.go88.org'
   - 'i.go88.top'
   - 'i.hao61.net'
+  - 'i.hit.club'
   - 'i.honk.me'
   - 'i.hzblic.com'
   - 'i.imedia.cz'
@@ -41932,7 +41930,6 @@ payload:
   - 'i.zzb6.cn'
   - 'i0.letvimg.com'
   - 'i0001.clarodrive.com'
-  - 'i1.services.social.microsoft.com'
   - 'i1.services.social.microsoft.com.nsatc.net'
   - 'i2.akjunshi.com'
   - 'i218435.net'
@@ -95126,6 +95123,7 @@ payload:
   - 'vn88.fun'
   - 'vn88.io'
   - 'vn88.mobi'
+  - 'vn88.quest'
   - 'vn887.com'
   - 'vn88808.com'
   - 'vn88hn.live'
