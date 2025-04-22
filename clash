@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-04-21
+# Last update: 2025-04-22
 #
-# Number of domains: 103761
+# Number of domains: 103752
 #
 #=====================================
 payload:
@@ -5660,7 +5660,6 @@ payload:
   - 'a8clk.account.matsui.co.jp'
   - 'a8clk.adeliv.treasure-f.com'
   - 'a8clk.adventkk.co.jp'
-  - 'a8clk.afi1.emanon-sharesalon.com'
   - 'a8clk.aipo.com'
   - 'a8clk.alljewelry.jp'
   - 'a8clk.ambientlounge.co.jp'
@@ -8947,7 +8946,6 @@ payload:
   - 'ads.genieessp.com'
   - 'ads.gionee.com'
   - 'ads.globo.com'
-  - 'ads.gmodules.com'
   - 'ads.google.cn'
   - 'ads.heyzap.com'
   - 'ads.house365.com'
@@ -27391,7 +27389,6 @@ payload:
   - 'deep.mlmtool.in'
   - 'deep.souk.com.br'
   - 'deepattention.com'
-  - 'deepchannel.com'
   - 'deepcrawl.actonservice.com'
   - 'deeperregardingcontend.com'
   - 'deephicy.net'
@@ -41744,7 +41741,6 @@ payload:
   - 'hydrogenwater.news'
   - 'hye.comp.360os.com'
   - 'hyeorg.gmarket.co.kr'
-  - 'hyfh.benbaisteel.com'
   - 'hyfntrak.com'
   - 'hygeistagua.com'
   - 'hygiena.actonservice.com'
@@ -58190,7 +58186,6 @@ payload:
   - 'mig8fans.com'
   - 'mig8vn.com'
   - 'migcreport.g.mi.com'
-  - 'mightycause.com'
   - 'mightylottrembling.com'
   - 'mightyspiders.com'
   - 'mignished-sility.com'
@@ -67150,7 +67145,6 @@ payload:
   - 'postut.cn'
   - 'potailvine.com'
   - 'potassaseafolk.shop'
-  - 'potatoesejection.com'
   - 'potatoinvention.com'
   - 'potawe.com'
   - 'potedraihouxo.xyz'
@@ -69675,7 +69669,6 @@ payload:
   - 'r.sax.sina.com.cn'
   - 'r.skimresources.com'
   - 'r.sportsie.com'
-  - 'r.stripe.com'
   - 'r.w.inmobi.com'
   - 'r.wz.de'
   - 'r.xcycm.com'
@@ -77112,7 +77105,6 @@ payload:
   - 'smetrics.apps.ge.com'
   - 'smetrics.aptashop.co.uk'
   - 'smetrics.arcobusinesssolutions.com'
-  - 'smetrics.argenta.be'
   - 'smetrics.argenta.eu'
   - 'smetrics.argos.co.uk'
   - 'smetrics.arhealthwellness.com'
@@ -91445,7 +91437,6 @@ payload:
   - 'trk05.informatech.com'
   - 'trk09.informa.com'
   - 'trk1.17admob.com'
-  - 'trk2-wtb.swaven.com'
   - 'trk2.avalara.com'
   - 'trk3000.com'
   - 'trk4.com'
