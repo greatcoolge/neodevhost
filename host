@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-04-24
+# Last update: 2025-04-25
 #
-# Number of domains: 104100
+# Number of domains: 104088
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -165,6 +165,7 @@
 0.0.0.0  0sbm.consobaby.co.uk
 0.0.0.0  0sntp7dnrr.com
 0.0.0.0  0stats.com
+0.0.0.0  0summit.com
 0.0.0.0  0sywjs4r1x.com
 0.0.0.0  0td6sdkfq.com
 0.0.0.0  0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com
@@ -719,7 +720,6 @@
 0.0.0.0  2004seo.cn
 0.0.0.0  2005net.net
 0.0.0.0  20091222.com
-0.0.0.0  200summit.com
 0.0.0.0  2012.8684.com
 0.0.0.0  20150930.cf
 0.0.0.0  2016.sina.cn
@@ -769,6 +769,7 @@
 0.0.0.0  206ads.com
 0.0.0.0  206solutions.com
 0.0.0.0  20729617.xyz
+0.0.0.0  20active.tc.skysrt.com
 0.0.0.0  20bd.pandasuite.io
 0.0.0.0  20betvnd.com
 0.0.0.0  20dollars2surf.com
@@ -2355,7 +2356,6 @@
 0.0.0.0  8live.fun
 0.0.0.0  8live.mobi
 0.0.0.0  8live.net
-0.0.0.0  8live.top
 0.0.0.0  8live.us
 0.0.0.0  8live.vip
 0.0.0.0  8mfty.com
@@ -10260,7 +10260,6 @@
 0.0.0.0  ahsjmiov.com
 0.0.0.0  ahsxot.meaningfulbeauty.com
 0.0.0.0  ahtigames.com
-0.0.0.0  ahtribune.com
 0.0.0.0  ahuvjy.design-market.fr
 0.0.0.0  ahvradotws.com
 0.0.0.0  ahxhny.cn
@@ -12368,7 +12367,6 @@
 0.0.0.0  api.mumuglobal.com
 0.0.0.0  api.mxvietnam.com
 0.0.0.0  api.myadsget.com
-0.0.0.0  api.nbet.vin
 0.0.0.0  api.newad.ifeng.com
 0.0.0.0  api.newbelden.com
 0.0.0.0  api.newsfeed.intl.miui.com
@@ -33371,7 +33369,6 @@
 0.0.0.0  euskarawordman.shop
 0.0.0.0  eusvnhgypltw.life
 0.0.0.0  euthanasia.news
-0.0.0.0  eutopia.buzz
 0.0.0.0  euvtoaw.com
 0.0.0.0  euz.net
 0.0.0.0  ev-dating.com
@@ -34840,7 +34837,6 @@
 0.0.0.0  fi8822.com
 0.0.0.0  fi883.com
 0.0.0.0  fi8883.com
-0.0.0.0  fi8899.com
 0.0.0.0  fi88aff.com
 0.0.0.0  fiatgrabbed.com
 0.0.0.0  fiawmk.empik.com
@@ -37922,7 +37918,6 @@
 0.0.0.0  globallearningsystems.actonservice.com
 0.0.0.0  globalmed.actonservice.com
 0.0.0.0  globaloffers.link
-0.0.0.0  globalresearch.ca
 0.0.0.0  globalsiteanalytics.com
 0.0.0.0  globalsolutions.risk.lexisnexis.com
 0.0.0.0  globalsuccessclub.com
@@ -46516,7 +46511,6 @@
 0.0.0.0  johnslots.com
 0.0.0.0  johnsoncitytimes.com
 0.0.0.0  johnstonreporter.com
-0.0.0.0  johnstontimes.com
 0.0.0.0  join-staging.kloaked.app
 0.0.0.0  join-test.pre-prod.spur.io
 0.0.0.0  join-test.step.com
@@ -52430,7 +52424,7 @@
 0.0.0.0  m.17w3a.cn
 0.0.0.0  m.181mob.com
 0.0.0.0  m.183pu.cn
-0.0.0.0  m.188sbsoccer.com
+0.0.0.0  m.188sbsoccer.co
 0.0.0.0  m.188thethao.com
 0.0.0.0  m.1919388.net
 0.0.0.0  m.198nc.cn
@@ -62172,7 +62166,6 @@
 0.0.0.0  nws.naltis.com
 0.0.0.0  nwtennnews.com
 0.0.0.0  nwtwincities.com
-0.0.0.0  nwvalleytimes.com
 0.0.0.0  nwvupz.cljoias.com.br
 0.0.0.0  nwvvhxakmxif.com
 0.0.0.0  nwwais.com
@@ -85993,7 +85986,6 @@
 0.0.0.0  taib52.club
 0.0.0.0  taib52.com
 0.0.0.0  taib52.dev
-0.0.0.0  taib52.vin
 0.0.0.0  taib69.cafe
 0.0.0.0  taibum.tv
 0.0.0.0  taichoang.fun
@@ -90293,7 +90285,6 @@
 0.0.0.0  tracking.americaneagle.com
 0.0.0.0  tracking.americas.business.samsung.com
 0.0.0.0  tracking.analysis.hibu.com
-0.0.0.0  tracking.apac.business.samsung.com
 0.0.0.0  tracking.arabiancentres.com
 0.0.0.0  tracking.arbor.edu
 0.0.0.0  tracking.arcadis.com
@@ -92239,7 +92230,6 @@
 0.0.0.0  twilightsuburbmill.com
 0.0.0.0  twilmii.top
 0.0.0.0  twin163.com
-0.0.0.0  twin188.co
 0.0.0.0  twin5568.com
 0.0.0.0  twin68.ink
 0.0.0.0  twin868.com
@@ -93719,7 +93709,6 @@
 0.0.0.0  usuncut.com
 0.0.0.0  usuphergais.net
 0.0.0.0  usurv.com
-0.0.0.0  usviral.info
 0.0.0.0  usw18-268-pdb.net.mydays.de
 0.0.0.0  uswardwot.com
 0.0.0.0  usxabwaiinnu.com
@@ -97426,7 +97415,6 @@
 0.0.0.0  whoulikaihe.net
 0.0.0.0  whoumpouks.net
 0.0.0.0  whoumtefie.com
-0.0.0.0  whounsou.com
 0.0.0.0  whouphesaussums.net
 0.0.0.0  whourgie.com
 0.0.0.0  whouroazu.net
