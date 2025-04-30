@@ -1795,7 +1795,6 @@ bc.marfeelcache.com
 bc.vc
 bcbits.com
 bce.baidu.com
-bce.baidu.comsony.tv
 bcedns.com
 bcedns.net
 bcee.lu
@@ -2884,6 +2883,11 @@ configuration.apple.com.akadns.net
 conn-service-cn-03.allawntech.com
 conn-service-cn-04.allawntech.com
 conn-service-cn-05.allawntech.com
+conn1.coloros.com
+conn2.coloros.com
+conn3.coloros.com
+conn4.coloros.com
+conn5.coloros.com
 connatix.com
 connect.dealersocket.com
 connect.ebay.com
@@ -9031,6 +9035,7 @@ static.oracle.com
 static.ow.ly
 static.parastorage.com
 static.pcgamingwiki.com
+static.pd.biv.sony.tv
 static.returnpath.net
 static.seedr.cc
 static.sh.st
